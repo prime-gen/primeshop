@@ -1,0 +1,73 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+
+  color-scheme: light dark;
+  color: rgba(255, 255, 255, 0.87);
+  background-color: #242424;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  min-width: 320px;
+}
+
+.text-prime-purple {
+  color: rgb(97, 2, 242);
+}
+
+.text-prime-orange {
+  color: rgb(255, 113, 0);
+}
+
+.text-prime-black {
+  color: rgb(13, 12, 25);
+}
+
+.text-prime-white {
+  color: rgb(242, 236, 233);
+}
+
+
+
+.bg-prime-purple {
+  color: rgb(97, 2, 242);
+}
+
+.bg-prime-orange {
+  color: rgb(255, 113, 0);
+}
+
+.bg-prime-black {
+  color: rgb(13, 12, 25);
+}
+
+.bg-prime-white {
+  color: rgb(242, 236, 233);
+}
+
+#app {
+  margin: 0 auto;
+  text-align: center;
+}
+
+@media (prefers-color-scheme: light) {
+  :root {
+    color: #213547;
+    background-color: #ffffff;
+  }
+  a:hover {
+    color: #747bff;
+  }
+  button {
+    background-color: #f9f9f9;
+  }
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
