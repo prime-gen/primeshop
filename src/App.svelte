@@ -1,5 +1,4 @@
 <script>
-  import viteLogo from '/vite.svg'
   import Nav from './lib/Nav.svelte';
   import ProductList from './lib/ProductList.svelte';
   import { Router, Link, Route } from "svelte-routing";
