@@ -52,7 +52,7 @@
                 ✅ Los envíos son a NIVEL NACIONAL (PERÚ).
             </li>
             <li>
-                ✅ El lapso de entrega por medio de envío en SHALOM / OLVA es de 10
+                ✅ El lapso de entrega por medio de envío en SHALOM es de 10
                 días calendarios una vez efectuada la confirmación de compra.
             </li>
             <li>
